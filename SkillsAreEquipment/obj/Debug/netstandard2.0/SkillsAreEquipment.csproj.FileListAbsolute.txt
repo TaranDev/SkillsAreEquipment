@@ -1,0 +1,12 @@
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\SkillsAreEquipment\SkillsAreEquipment\bin\Debug\netstandard2.0\SkillsAreEquipment.deps.json
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\SkillsAreEquipment\SkillsAreEquipment\bin\Debug\netstandard2.0\SkillsAreEquipment.dll
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\SkillsAreEquipment\SkillsAreEquipment\bin\Debug\netstandard2.0\SkillsAreEquipment.pdb
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\SkillsAreEquipment\SkillsAreEquipment\bin\Debug\netstandard2.0\RiskOfOptions.dll
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\SkillsAreEquipment\SkillsAreEquipment\obj\Debug\netstandard2.0\SkillsAreEquipment.csproj.AssemblyReference.cache
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\SkillsAreEquipment\SkillsAreEquipment\obj\Debug\netstandard2.0\SkillsAreEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\SkillsAreEquipment\SkillsAreEquipment\obj\Debug\netstandard2.0\SkillsAreEquipment.AssemblyInfoInputs.cache
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\SkillsAreEquipment\SkillsAreEquipment\obj\Debug\netstandard2.0\SkillsAreEquipment.AssemblyInfo.cs
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\SkillsAreEquipment\SkillsAreEquipment\obj\Debug\netstandard2.0\SkillsAreEquipment.csproj.CoreCompileInputs.cache
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\SkillsAreEquipment\SkillsAreEquipment\obj\Debug\netstandard2.0\SkillsAreEquipment.csproj.CopyComplete
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\SkillsAreEquipment\SkillsAreEquipment\obj\Debug\netstandard2.0\SkillsAreEquipment.dll
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\SkillsAreEquipment\SkillsAreEquipment\obj\Debug\netstandard2.0\SkillsAreEquipment.pdb

@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\taran\\Documents\\Programming\\RoR2Modding\\Mods\\SkillsAreEquipment\\SkillsAreEquipment\\SkillsAreEquipment.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\taran\\Documents\\Programming\\RoR2Modding\\Mods\\SkillsAreEquipment\\SkillsAreEquipment\\SkillsAreEquipment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\taran\\Documents\\Programming\\RoR2Modding\\Mods\\SkillsAreEquipment\\SkillsAreEquipment\\SkillsAreEquipment.csproj",
+        "projectName": "SkillsAreEquipment",
+        "projectPath": "C:\\Users\\taran\\Documents\\Programming\\RoR2Modding\\Mods\\SkillsAreEquipment\\SkillsAreEquipment\\SkillsAreEquipment.csproj",
+        "packagesPath": "C:\\Users\\taran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\taran\\Documents\\Programming\\RoR2Modding\\Mods\\SkillsAreEquipment\\SkillsAreEquipment\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\taran\\Documents\\Programming\\RoR2Modding\\Mods\\SkillsAreEquipment\\NuGet.Config",
+          "C:\\Users\\taran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "BepInEx.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.*, )"
+            },
+            "BepInEx.Core": {
+              "target": "Package",
+              "version": "[5.4.21, )"
+            },
+            "MMHOOK.RoR2": {
+              "target": "Package",
+              "version": "[2024.5.24, )",
+              "noWarn": [
+                "NU1701"
+              ]
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "R2API.Items": {
+              "target": "Package",
+              "version": "[1.0.*, )"
+            },
+            "R2API.Language": {
+              "target": "Package",
+              "version": "[1.0.*, )"
+            },
+            "RiskOfRain2.GameLibs": {
+              "target": "Package",
+              "version": "[1.2.4.4-r.1, )"
+            },
+            "UnityEngine.Modules": {
+              "target": "Package",
+              "version": "[2019.4.37, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

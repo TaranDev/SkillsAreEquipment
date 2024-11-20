@@ -1,0 +1,12 @@
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\ArtifactShuffle\ArtifactShuffle\bin\Debug\netstandard2.0\ArtifactShuffle.deps.json
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\ArtifactShuffle\ArtifactShuffle\bin\Debug\netstandard2.0\ArtifactShuffle.dll
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\ArtifactShuffle\ArtifactShuffle\bin\Debug\netstandard2.0\ArtifactShuffle.pdb
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\ArtifactShuffle\ArtifactShuffle\bin\Debug\netstandard2.0\RiskOfOptions.dll
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\ArtifactShuffle\ArtifactShuffle\obj\Debug\netstandard2.0\ArtifactShuffle.csproj.AssemblyReference.cache
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\ArtifactShuffle\ArtifactShuffle\obj\Debug\netstandard2.0\ArtifactShuffle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\ArtifactShuffle\ArtifactShuffle\obj\Debug\netstandard2.0\ArtifactShuffle.AssemblyInfoInputs.cache
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\ArtifactShuffle\ArtifactShuffle\obj\Debug\netstandard2.0\ArtifactShuffle.AssemblyInfo.cs
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\ArtifactShuffle\ArtifactShuffle\obj\Debug\netstandard2.0\ArtifactShuffle.csproj.CoreCompileInputs.cache
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\ArtifactShuffle\ArtifactShuffle\obj\Debug\netstandard2.0\ArtifactShuffle.csproj.CopyComplete
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\ArtifactShuffle\ArtifactShuffle\obj\Debug\netstandard2.0\ArtifactShuffle.dll
+C:\Users\taran\Documents\Programming\RoR2Modding\Mods\ArtifactShuffle\ArtifactShuffle\obj\Debug\netstandard2.0\ArtifactShuffle.pdb
